@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.next/
+public/
+out/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
